@@ -12,8 +12,8 @@ npm i;
 npm bootstrap i;
 
 At the end of the installation, run:  
-- `php artisan serve`  
-- `npm run dev`  
+- php artisan serve; 
+- npm run dev;  
 
 
 
